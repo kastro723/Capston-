@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {private FloatingActionButto
     CalendarLayout mLayout;
     CalendarView mView;
     DayView mDayView;
-       //수정 1 수정 2
+       //수정 2
     enum state{
         CALENDAER,
         ADDDATE,
