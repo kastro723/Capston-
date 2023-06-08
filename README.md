@@ -2,4 +2,4 @@
 
 ## Project Calendar
 
-<h5>매주 회의록은 meeting 폴더에 있습니다.</
+<h5>최종 합본 코드 링크 : https://github.com/kastro723/Winning-Calendar</
